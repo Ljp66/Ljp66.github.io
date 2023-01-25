@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>epub on LiJiapeng</title>
+        <link>https://ljp66.github.io/tags/epub/</link>
+        <description>Recent content in epub on LiJiapeng</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Tue, 17 Jan 2023 15:41:57 +0800</lastBuildDate><atom:link href="https://ljp66.github.io/tags/epub/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Epub vs Pdf</title>
+        <link>https://ljp66.github.io/post/epub-vs-pdf/</link>
+        <pubDate>Tue, 17 Jan 2023 15:41:57 +0800</pubDate>
+        
+        <guid>https://ljp66.github.io/post/epub-vs-pdf/</guid>
+        <description>&lt;h2 id=&#34;一&#34;&gt;(一)&lt;/h2&gt;
+&lt;p&gt;今天在手机上看到一篇关于 epub 文件格式的文章，底下评论区在比较 epub 与 pdf 这两种电子文件格式，这也引起了我的思考。&lt;/p&gt;
+&lt;p&gt;平时我常用 pdf 格式存储文件，将不同类型的文件转化为 pdf 版本，因为 pdf 文件在不同设备间渲染结果一致，我的书与文件大都是关于计算机技术，内容中包含示例代码，需要一致的排版渲染。而且 pdf 文件对链接，图片，字体，代码块，数学公式等不同元素的支持稳定又全面，满足我的文件使用需求。&lt;/p&gt;
+&lt;p&gt;为什么比较 epub 与 pdf 呢？文章主要讲述 epub 文件格式在电子书领域的优越性，少部分评论认为 pdf 文件格式更优秀，大部分人认为 epub 格式在电子书领域更优秀。&lt;/p&gt;
+&lt;p&gt;大部分人使用手机看电子书，epub 格式的电子书会根据设备自动排版，段落自动换行，整个手机屏幕显示字数取决于设定的字体大小，这样你可以根据喜好调整排版。而 pdf 格式的电子书在不同设备间渲染结果一致，整页显示，用手机看字体显示偏小。虽然阅读器可以放大局部，但是读完显示的局部文字要滑移文件才能看其他部分，阅读不方便。&lt;/p&gt;
+&lt;p&gt;我自然知道这个问题,因为我有时也需要在手机上查看文件，无奈计算机技术文档需要严格排版渲染。但是结合 epub 格式的特性，不难看出它在非计算机类书籍使用方面占有优势。我们日常工作学习中，大部分时间使用手机阅读，对电子书文件并没有十分严格的排版渲染要求，需要的是简单舒适的阅读体验，这时更适合使用 epub 格式。&lt;/p&gt;
+&lt;h2 id=&#34;二&#34;&gt;(二)&lt;/h2&gt;
+&lt;p&gt;上次我简单比较了 epub 与 pdf 两种文件格式，这次我再深入比较一番。&lt;/p&gt;
+&lt;p&gt;我们使用文件，会制作、阅读、修改它。&lt;/p&gt;
+&lt;p&gt;首先从制作讲起。制作 epub 文件的程序不多,很多读者可能不知道如何制作。我知道两个制作 epub 文件的程序，一个是专门制作 epub 文件的 sigil，另一个是电子书阅读器 calibre 附带的 epub 制作程序。epub 文件本质上是由 html 文本文件组成的 zip 压缩包，使用这两个工具制作 epub 需要具备一定的 html 知识。pdf格式被广泛支持，大部分文档制作程序都可以导出 pdf。我们日常使用 office 或者wps 制作文档，然后导出 pdf 格式。&lt;/p&gt;
+&lt;p&gt;接着讲修改文件。我们经常写完一篇文章，几天之后再看，觉得哪里不好，想要修改。epub 文件像 office 文档，使用上述制作程序就可以修改。而 pdf 文件技术非常复杂，不易编辑，有许多商用专业 pdf 编辑软件，付费使用。一般来讲，我们会将 pdf 对应的源文件和 pdf 保存在一起，需要修改时修改源文件，然后再导出pdf。&lt;/p&gt;
+&lt;p&gt;关于阅读，我在上一篇文章中已经讲了，这里不在赘述。&lt;/p&gt;
+&lt;p&gt;总的来说，epub 文件制作有一点门槛，掌握基本 html 知识才容易制作与修改；pdf 文件容易制作，修改时一般修改源文件然后再导出 pdf，实现间接修改。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

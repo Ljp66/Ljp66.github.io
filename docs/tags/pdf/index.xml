@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>pdf on LiJiapeng</title>
+        <link>https://ljp66.github.io/tags/pdf/</link>
+        <description>Recent content in pdf on LiJiapeng</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Tue, 17 Jan 2023 15:41:57 +0800</lastBuildDate><atom:link href="https://ljp66.github.io/tags/pdf/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Epub vs Pdf</title>
+        <link>https://ljp66.github.io/post/epub-vs-pdf/</link>
+        <pubDate>Tue, 17 Jan 2023 15:41:57 +0800</pubDate>
+        
+        <guid>https://ljp66.github.io/post/epub-vs-pdf/</guid>
+        <description>&lt;h2 id=&#34;一&#34;&gt;(一)&lt;/h2&gt;
+&lt;p&gt;今天在手机上看到一篇关于 epub 文件格式的文章，底下评论区在比较 epub 与 pdf 这两种电子文件格式，这也引起了我的思考。&lt;/p&gt;
+&lt;p&gt;平时我常用 pdf 格式存储文件，将不同类型的文件转化为 pdf 版本，因为 pdf 文件在不同设备间渲染结果一致，我的书与文件大都是关于计算机技术，内容中包含示例代码，需要一致的排版渲染。而且 pdf 文件对链接，图片，字体，代码块，数学公式等不同元素的支持稳定又全面，满足我的文件使用需求。&lt;/p&gt;
+&lt;p&gt;为什么比较 epub 与 pdf 呢？文章主要讲述 epub 文件格式在电子书领域的优越性，少部分评论认为 pdf 文件格式更优秀，大部分人认为 epub 格式在电子书领域更优秀。&lt;/p&gt;
+&lt;p&gt;大部分人使用手机看电子书，epub 格式的电子书会根据设备自动排版，段落自动换行，整个手机屏幕显示字数取决于设定的字体大小，这样你可以根据喜好调整排版。而 pdf 格式的电子书在不同设备间渲染结果一致，整页显示，用手机看字体显示偏小。虽然阅读器可以放大局部，但是读完显示的局部文字要滑移文件才能看其他部分，阅读不方便。&lt;/p&gt;
+&lt;p&gt;我自然知道这个问题,因为我有时也需要在手机上查看文件，无奈计算机技术文档需要严格排版渲染。但是结合 epub 格式的特性，不难看出它在非计算机类书籍使用方面占有优势。我们日常工作学习中，大部分时间使用手机阅读，对电子书文件并没有十分严格的排版渲染要求，需要的是简单舒适的阅读体验，这时更适合使用 epub 格式。&lt;/p&gt;
+&lt;h2 id=&#34;二&#34;&gt;(二)&lt;/h2&gt;
+&lt;p&gt;上次我简单比较了 epub 与 pdf 两种文件格式，这次我再深入比较一番。&lt;/p&gt;
+&lt;p&gt;我们使用文件，会制作、阅读、修改它。&lt;/p&gt;
+&lt;p&gt;首先从制作讲起。制作 epub 文件的程序不多,很多读者可能不知道如何制作。我知道两个制作 epub 文件的程序，一个是专门制作 epub 文件的 sigil，另一个是电子书阅读器 calibre 附带的 epub 制作程序。epub 文件本质上是由 html 文本文件组成的 zip 压缩包，使用这两个工具制作 epub 需要具备一定的 html 知识。pdf格式被广泛支持，大部分文档制作程序都可以导出 pdf。我们日常使用 office 或者wps 制作文档，然后导出 pdf 格式。&lt;/p&gt;
+&lt;p&gt;接着讲修改文件。我们经常写完一篇文章，几天之后再看，觉得哪里不好，想要修改。epub 文件像 office 文档，使用上述制作程序就可以修改。而 pdf 文件技术非常复杂，不易编辑，有许多商用专业 pdf 编辑软件，付费使用。一般来讲，我们会将 pdf 对应的源文件和 pdf 保存在一起，需要修改时修改源文件，然后再导出pdf。&lt;/p&gt;
+&lt;p&gt;关于阅读，我在上一篇文章中已经讲了，这里不在赘述。&lt;/p&gt;
+&lt;p&gt;总的来说，epub 文件制作有一点门槛，掌握基本 html 知识才容易制作与修改；pdf 文件容易制作，修改时一般修改源文件然后再导出 pdf，实现间接修改。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PDF补丁丁基本使用</title>
+        <link>https://ljp66.github.io/post/pdfpatcher-usage/</link>
+        <pubDate>Tue, 17 Jan 2023 15:18:50 +0800</pubDate>
+        
+        <guid>https://ljp66.github.io/post/pdfpatcher-usage/</guid>
+        <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
+&lt;p&gt;日常办公中，我们经常使用pdf文件。pdf文件有许多优点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;支持富文本，例如图片，序列，表格，链接等；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以在阅读时做注释；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对数学公式支持良好；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在不同设备间无差别呈现等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所以我们将文件转化为pdf格式发送给对方。&lt;/p&gt;
+&lt;p&gt;pdf格式虽然具有种种优点，但是很难编辑、处理。我们很多时候需要将几张图片转化为pdf，将几个pdf合为一个，或者相反。市面上有许多针对pdf文件办公开发的软件，除了阅读及简单注释外，其余功能无一例外收费，且价格不菲。&lt;/p&gt;
+&lt;p&gt;其实，我们日常办公中对pdf文件的操作需求很简单，但是很难找到合适的软件。我在网上寻找到一个小工具-pdf补丁丁，它安全免费，能满足我们日常使用。&lt;/p&gt;
+&lt;h2 id=&#34;pdf补丁丁&#34;&gt;PDF补丁丁&lt;/h2&gt;
+&lt;p&gt;pdf补丁丁的官网是&lt;a class=&#34;link&#34; href=&#34;https://www.cnblogs.com/pdfpatcher/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.cnblogs.com/pdfpatcher&lt;/a&gt;，页面内有下载链接，软件说明书。下载得到一个压缩文件，解压，文件夹内包含程序的主体与依赖，这些文件不能删除或移动。程序无需安装，双击PDFPatcher.exe即可运行。主页如下：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ljp66.github.io/images/0x63eXvKwy.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;主页&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;从图中可以看出PDF补丁丁有许多功能，我们主要使用下面几个。&lt;/p&gt;
+&lt;h2 id=&#34;图片转pdf&#34;&gt;图片转PDF&lt;/h2&gt;
+&lt;p&gt;在主页找到“合并文件”，点击，出现如下界面：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ljp66.github.io/images/PDFPatcher_a4vbnvIyiV.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;合并文件&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;在界面左上角找到“添加文件”（上图画红框处），点击后出现文件管理器，选择需要转化的图片。多张图片可通过多次点击“添加文件”添加，图片排列顺序决定输出顺序。然后在界面底部“输出PDF文件”后点击“浏览”（注意：不要点击“PDF信息文件”后的“浏览”），出现文件管理器，对输出的PDF文件命名。最后点击“生成合并文件”，进度条走满后转化完成。&lt;/p&gt;
+&lt;h2 id=&#34;合并pdf文件&#34;&gt;合并PDF文件&lt;/h2&gt;
+&lt;p&gt;方法与图片转PDF类似，点击“添加文件”后选择PDF文件，然后设置输出PDF文件名，最后点击“生成合并文件”。&lt;/p&gt;
+&lt;h2 id=&#34;提取pdf页面&#34;&gt;提取PDF页面&lt;/h2&gt;
+&lt;p&gt;在主页点击“提取页面或拆分文档”，出现如下页面：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ljp66.github.io/images/KkDU528esB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;提取页面&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;在“原始PDF文件”后点击“浏览”，选择原PDF文件，然后在“输出PDF文件”后点击“浏览”，对输出文件进行命名。接着选择需要提取的PDF页码，在“页码范围”处填写页码。页码范围按照如下规则填写：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;页码范围表示需处理的原始 PDF 文档页面。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不指定页码范围时，提取源文件所有页面的内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如有多个页码，可用“,”或“ ”（空格）隔开。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用“-”表示起止页码。例如：“1;4-15;2 56”，表示依次提取第1页、第4至15页、第2页和第56页的内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如“-”之前的数字大于“-”之后的数字，表示逆序处理。例如：“300-1”表示提取第300、299、298……3、2、1页的内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;负数表示文档倒数页数，例如“-1”表示倒数第1页，“1&amp;ndash;2”表示从第1页到倒数第2页。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;分号“;”表示拆分成多个文件，例如“1-5;1,6-10”表示拆分成两个文件，其中第1至5页为一个文件，第1页和6到10页为第二个文件。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;最后点击“提取页面”，得到输出文件。&lt;/p&gt;
+&lt;h2 id=&#34;pdf页面转图片&#34;&gt;PDF页面转图片&lt;/h2&gt;
+&lt;p&gt;在主页点击“转换页面为图片”，出现如下页面：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ljp66.github.io/images/3FAS7ChT8F.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;页面转图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;PDF页面转图片大体操作与前面相同，选择“原始PDF文件”后软件会自动新建一个与原始PDF文件同名的文件夹存放图片。&lt;/p&gt;
+&lt;p&gt;在设置“输出图片格式”时，可以选择常用的PNG（无损）或者JPEG（有损）；在输出图片尺寸下面可以设置分辨率，分辨率高图像存储空间大，清晰。&lt;/p&gt;
+&lt;p&gt;最后点击“转换图片”得到多张图片。&lt;/p&gt;
+&lt;h2 id=&#34;结语&#34;&gt;结语&lt;/h2&gt;
+&lt;p&gt;本文介绍了如何使用PDF补丁丁简单处理PDF，可以满足日常办公。如果还想进一步了解，开发者提供的软件说明书中有进阶使用教程。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

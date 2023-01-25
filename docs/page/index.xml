@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on LiJiapeng</title>
+        <link>https://ljp66.github.io/page/</link>
+        <description>Recent content in Pages on LiJiapeng</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Mon, 16 Jan 2023 19:09:33 +0800</lastBuildDate><atom:link href="https://ljp66.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于我</title>
+        <link>https://ljp66.github.io/page/about/</link>
+        <pubDate>Mon, 16 Jan 2023 19:09:33 +0800</pubDate>
+        
+        <guid>https://ljp66.github.io/page/about/</guid>
+        <description>&lt;p&gt;我是一名普通的工科大学生，即将大四毕业。&lt;/p&gt;
+&lt;p&gt;在我大一寒假，我妈给我买了我的第一台（笔记本）电脑，从此我有机会近距离感受计算机。以前我也接触过电脑，不过大都是在别人家看别人玩游戏，偶尔有机会摸两下，对电脑的认识仅限于上网打游戏。&lt;/p&gt;
+&lt;p&gt;我妈之所以给我买电脑，是因为在我之后的学习中要使用。有了计算机后，我先学习使用办公软件（word、excel、powerpoint），毕竟在日常学习中经常使用。与此同时，我经常使用浏览器浏览网页，网络世界给我开了一扇大门，我惊奇地浏览各种各样的网站。在使用浏览器的过程中，我越发对计算机着迷。&lt;/p&gt;
+&lt;p&gt;我接触编程语言是在大二上学期，我有一门必修课&amp;mdash;C语言。当时我不了解计算机编程，课程很多，老师讲完课没多久就要考试。我这门课的平时作业是糊弄过去的，到考试时我把C语言基本语法学完，考完后我才知道考试分两部分：基础语法40分，简单算法60分。谢天谢地，老师捞了我一下，让我及格了。&lt;/p&gt;
+&lt;p&gt;到大三上学期，我已经很熟练使用windows电脑了，想进一步提升自己的水平，我就开始学习python。python简单易学，能与我的专业结合，有大量第三方库，适合不是程序员的我学习。&lt;/p&gt;
+&lt;p&gt;学习python是一段很棒的经历。当时我在努力学习专业课，希望将来能找到一份工作。学习专业课学久了，我就在电脑上学学python，那种在电脑上敲代码的感觉，看着代码运行后得到输出，是我之前没有过的体验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://ljp66.github.io/page/archives/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://ljp66.github.io/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://ljp66.github.io/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://ljp66.github.io/page/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
