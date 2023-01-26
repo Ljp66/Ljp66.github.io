@@ -114,6 +114,16 @@ menu:
       url: https://github.com/ljp66
       params:
         icon: brand-github
+    - identifier: mail
+      name: mail
+      url: "mailto:gbwyljp@gmail.com"
+      params:
+        icon: mail
+    - identifier: rss
+      name: rss
+      url: "index.xml"
+      params:
+        icon: rss
 
 related:
   includeNewer: true

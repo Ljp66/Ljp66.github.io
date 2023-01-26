@@ -4,7 +4,7 @@ description: "关于我，自我介绍，我的联系方式"
 date: '2023-01-16T19:09:33+08:00'
 menu:
     main: 
-        weight: -90
+        weight: 3
         params:
             icon: user
 ---
