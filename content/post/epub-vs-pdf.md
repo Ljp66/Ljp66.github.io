@@ -1,10 +1,11 @@
 ---
 title: "Epub vs Pdf"
 date: 2023-01-17T15:41:57+08:00
+categories:
+    - tech
 tags:
     - pdf
     - epub
-    - think
 draft: false
 ---
 

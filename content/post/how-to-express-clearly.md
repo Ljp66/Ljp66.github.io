@@ -1,9 +1,10 @@
 ---
 title: "如何简洁而清晰地表达自己的观点"
 date: 2023-01-17T15:36:17+08:00
+categories:
+    - think
 tags:
     - write
-    - think
 draft: false
 ---
 

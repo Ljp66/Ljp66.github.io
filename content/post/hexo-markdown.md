@@ -1,8 +1,10 @@
 ---
 title: hexo-markdown
 date: 2023-01-14 18:52:58
+categories:
+    - tech
 tags:
-- hexo
+    - hexo
 ---
 
 ## 插入图片

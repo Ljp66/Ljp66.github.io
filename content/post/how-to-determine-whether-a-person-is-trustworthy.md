@@ -1,8 +1,10 @@
 ---
 title: "如何判断一个人是否值得信赖"
 date: 2023-01-23T10:44:30+08:00
-tags:
+categories:
     - think
+tags:
+    - life
 draft: false
 ---
 

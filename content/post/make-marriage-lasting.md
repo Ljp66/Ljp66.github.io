@@ -1,9 +1,11 @@
 ---
 title: "如何保持婚姻长久"
 date: 2023-01-17T15:55:55+08:00
+categories:
+    - think
 tags:
     - marriage
-    - think
+    - life
 draft: false
 ---
 

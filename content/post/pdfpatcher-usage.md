@@ -1,6 +1,8 @@
 ---
 title: "PDF补丁丁基本使用"
 date: 2023-01-17T15:18:50+08:00
+categories:
+    - tech
 tags:
     - pdf
 draft: false
