@@ -6,7 +6,49 @@
         <description>Recent content in tech on LiJiapeng</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 23 Jan 2023 10:44:30 +0800</lastBuildDate><atom:link href="https://ljp66.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 30 Jan 2023 14:15:57 +0800</lastBuildDate><atom:link href="https://ljp66.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>golang介绍</title>
+        <link>https://ljp66.github.io/post/introduce-golang/</link>
+        <pubDate>Mon, 30 Jan 2023 14:15:57 +0800</pubDate>
+        
+        <guid>https://ljp66.github.io/post/introduce-golang/</guid>
+        <description>&lt;h2 id=&#34;历史背景&#34;&gt;历史背景&lt;/h2&gt;
+&lt;p&gt;随着软件规模的不断扩大，诸多的学者和谷歌的开发者们在公司内部的软件开发过程中开始经历大量的挫折，许多问题找不到令人满意的解决方案：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;计算机硬件技术更新频繁，性能提高很快。目前主流的编程语言发展明显落后于硬件，不能合理利用多核多CPU的优势提升软件系统性能。&lt;/li&gt;
+&lt;li&gt;软件系统复杂度越来越高，维护成本越来越高，目前缺乏一个足够简洁高效的编程语言。&lt;/li&gt;
+&lt;li&gt;现有编程语言存在：风格不统一、计算能力不够、处理大并发不够好&lt;/li&gt;
+&lt;li&gt;企业运行维护很多C/C++的项目，C/C++程序运行速度虽然很快，但是编译速度却很慢，同时还存在内存泄漏的一系列的困扰需要解决。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;因此学者们坐下来总结出了现在生产环境与软件开发之间的主要矛盾，并尝试设计一门全新的编程语言来解决这些问题。Go语言就在这样的环境下诞生了！&lt;/p&gt;
+&lt;h2 id=&#34;语言特点&#34;&gt;语言特点&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Go语言语法简洁高效，类似C语言。
+&lt;ul&gt;
+&lt;li&gt;Go语言语法在C语言的基础上进行优化，去掉了表达式和for循环中冗余的括号，强制统一了代码风格；从C语言中继承了很多理念，包括表达式语法，控制结构，基础数据类型，调用参数传值，指针等等，也保留了和C语言一样的编译执行方式及弱化的指针。&lt;/li&gt;
+&lt;li&gt;Go语言通过改善或去除在C、C++ 或Java中的一些所谓“开放”特性来让开发者们的工作更加便利。Go在语言设计上是相当克制，只有25个关键字，它没有隐式转换，没有构造函数和析构函数，没有运算符重载，没有默认参数，也没有继承，没有异常，没有宏，没有函数修饰。&lt;/li&gt;
+&lt;li&gt;Go的数据类型丰富，除了支持表、字典等复杂的数据结构，还支持指针和接口类型。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;快速的编译时间，开发效率和运行效率高。
+&lt;ul&gt;
+&lt;li&gt;Go将静态语言的安全性和高效性与动态语言的易开发性进行有机结合，Go拥有接近C的运行效率和接近Python的开发效率；&lt;/li&gt;
+&lt;li&gt;Go语言采用包模型进行依赖管理，这个模型通过严格的依赖关系检查机制来加快程序构建的速度，提供了非常好的可量测性。开发过程中相较于Java和C++呆滞的编译速度，Go可以快速编译；&lt;/li&gt;
+&lt;li&gt;由于内存问题长期以来一直伴随着C++的开发者们，Go语言的设计者们认为内存管理不应该是开发人员所需要考虑的问题。因此尽管Go语言像其它静态语言一样执行本地代码，但它依旧运行在某种意义上的虚拟机，以此来实现高效快速的垃圾回收。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;原生支持并发。像 C、C++、Java、Python和JavaScript这些语言的并发控制复杂，而且容易出错，而Go解决这个问题非常地优雅和流畅。Go从语言层面支持并发，实现简单。Go的并发基于goroutine，一种轻量级线程，可实现大并发处理，高效利用多核。goroutine之间的通信可以使用sync包和channel机制来实现。&lt;/li&gt;
+&lt;li&gt;稳定，向后兼容。Go拥有强大的编译检查、严格的编码规范和完整的软件生命周期工具，具有很强的稳定性。随着Go第一个版本发布的还有一份兼容性说明文档，该文档说明，Go的未来版本会确保向后兼容性，不会破坏现有程序。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;应用场景&#34;&gt;应用场景&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Go语言被设计成一门应用于搭载Web服务器，存储集群或类似用途的巨型中央服务器的系统编程语言。对于高性能分布式系统领域而言，Go语言无疑比大多数其它语言有着更高的开发效率。它提供了海量并行的支持，这对于游戏服务端的开发而言是再好不过了。&lt;/li&gt;
+&lt;li&gt;但是Go语言同时也是一门可以用于实现一般目标的语言，例如对于文本的处理，前端展现，甚至像使用脚本一样使用它。使用Go开发命令行工具的最大好处是可以直接发布可执行的二进制文件，无需安装脚本语言本身的运行环境以及安装依赖包。&lt;/li&gt;
+&lt;li&gt;因为垃圾回收和自动内存分配的原因，Go语言不适合用来开发对实时性要求很高的软件。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
         <title>hexo-usage</title>
         <link>https://ljp66.github.io/post/hexo-usage/</link>
         <pubDate>Mon, 23 Jan 2023 10:44:30 +0800</pubDate>
