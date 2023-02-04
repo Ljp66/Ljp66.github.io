@@ -1,6 +1,6 @@
 ---
-title: hexo-markdown
-date: 2023-01-14 18:52:58
+title: "hexo-markdown"
+date: 2023-01-14T18:52:58+08:00
 categories:
     - tech
 tags:

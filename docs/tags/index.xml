@@ -6,20 +6,20 @@
         <description>Recent content in Tags on LiJiapeng</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 30 Jan 2023 14:15:57 +0800</lastBuildDate><atom:link href="https://ljp66.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 04 Feb 2023 11:49:50 +0800</lastBuildDate><atom:link href="https://ljp66.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>chatgpt</title>
+        <link>https://ljp66.github.io/tags/chatgpt/</link>
+        <pubDate>Sat, 04 Feb 2023 11:49:50 +0800</pubDate>
+        
+        <guid>https://ljp66.github.io/tags/chatgpt/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>golang</title>
         <link>https://ljp66.github.io/tags/golang/</link>
         <pubDate>Mon, 30 Jan 2023 14:15:57 +0800</pubDate>
         
         <guid>https://ljp66.github.io/tags/golang/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>hexo</title>
-        <link>https://ljp66.github.io/tags/hexo/</link>
-        <pubDate>Mon, 23 Jan 2023 10:44:30 +0800</pubDate>
-        
-        <guid>https://ljp66.github.io/tags/hexo/</guid>
         <description></description>
         </item>
         <item>
@@ -60,6 +60,14 @@
         <pubDate>Tue, 17 Jan 2023 15:36:17 +0800</pubDate>
         
         <guid>https://ljp66.github.io/tags/write/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>hexo</title>
+        <link>https://ljp66.github.io/tags/hexo/</link>
+        <pubDate>Sat, 14 Jan 2023 18:52:58 +0800</pubDate>
+        
+        <guid>https://ljp66.github.io/tags/hexo/</guid>
         <description></description>
         </item>
         

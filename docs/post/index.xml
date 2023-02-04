@@ -6,7 +6,52 @@
         <description>Recent content in Posts on LiJiapeng</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 30 Jan 2023 14:15:57 +0800</lastBuildDate><atom:link href="https://ljp66.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 04 Feb 2023 11:49:50 +0800</lastBuildDate><atom:link href="https://ljp66.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ChatGPT对未来的影响</title>
+        <link>https://ljp66.github.io/post/the-future-impact-of-chatgpt/</link>
+        <pubDate>Sat, 04 Feb 2023 11:49:50 +0800</pubDate>
+        
+        <guid>https://ljp66.github.io/post/the-future-impact-of-chatgpt/</guid>
+        <description>&lt;h2 id=&#34;chatgpt介绍&#34;&gt;ChatGPT介绍&lt;/h2&gt;
+&lt;p&gt;ChatGPT是由OpenAI开发的一个人工智能聊天机器人程序，于2022年11月推出。该程序使用基于GPT-3.5架构的大型语言模型并通过强化学习进行训练。&lt;/p&gt;
+&lt;p&gt;ChatGPT目前仍以文字方式交互，而除了可以通过人类自然对话方式进行交互，还可以用于相对复杂的语言工作，包括自动文本生成、自动问答、自动摘要等在内的多种任务。如：在自动文本生成方面，ChatGPT可以根据输入的文本自动生成类似的文本，在自动问答方面，ChatGPT可以根据输入的问题自动生成答案。还具有编写和调试计算机程序的能力。在推广的期间中，所有人可以免费注册，并在登录后免费使用 ChatGPT 实现与 AI 机器人对话。&lt;/p&gt;
+&lt;h2 id=&#34;特点与局限&#34;&gt;特点与局限&lt;/h2&gt;
+&lt;h3 id=&#34;强大的性能&#34;&gt;强大的性能&lt;/h3&gt;
+&lt;p&gt;ChatGPT造成轰动和热议的主要原因，在于它拥有许多一般AI没有的强大功能——虽然Siri、Google Assistant和Amazon的Alexa等科技公司开发的手机智能语音AI，也有问答功能，但在功能性和灵活性上远低于ChatGPT。&lt;/p&gt;
+&lt;p&gt;而且能够快速完成许多人类难以在短时间内完成的事情——例如，提供想法、写简单的程式代码和对一段代码进行除错；或根据你的一段话进行创作歌曲、写文章、论文和一些简单的文案； 回答测试问题（在某些测试情境下，水平高于普通人类测试者）； 模拟 Linux 系统等。&lt;/p&gt;
+&lt;p&gt;与其前身InstructGPT相比，ChatGPT试图减少有害和误导性的回复。例如，当InstructGPT接受“告诉我2015年克里斯托弗·哥伦布何时来到美国”的提问时，它会认为这是对真实事件的描述，而ChatGPT针对同一问题则会使用其对哥伦布航行的知识和对现代世界的理解来构建一个答案，假设如果哥伦布在2015年来到美国时可能会发生什么。ChatGPT的训练数据包括各种文档以及关于互联网、编程语言等各类知识。&lt;/p&gt;
+&lt;p&gt;与其他多数聊天机器人不同的是，ChatGPT能够记住与用户之前的对话内容和给它的提示。此外，为了防止ChatGPT接受或生成冒犯性言论，输入内容会由审核API进行过滤，以减少潜在的种族主义或性别歧视等内容。&lt;/p&gt;
+&lt;h3 id=&#34;使用自然语法&#34;&gt;使用「自然语法」&lt;/h3&gt;
+&lt;p&gt;另外，造成轰动主要原因之一，在于ChatGPT会使用多国语言和「自然语法」与人们进行直觉性的回答，这是目前多数机械人和AI难以做到的，在回答问题的精准度上，也比许多文字生成应用程式和AI来得更加优秀。&lt;/p&gt;
+&lt;p&gt;「自然语法」指的是人们与生俱来的日常讲话方式和对文字使用的语言结构，而非结构化的语言或编程语言。「自然语法」对于一般的AI或机械来说，是相当复杂，因为一句话中的一个词或单字位置变换，都可能影响到一句话要表达的意思，这也成为AI在进行机器学习或深度学习时，主要的训练方向。&lt;/p&gt;
+&lt;p&gt;Opne AI公司从网络上文章、社媒上人们对话的沟通方式等进行筛选，将高质量的数据用于训练ChatGPT的神经网络，让它进行深度学习和模仿人类说话的语气和习惯，使ChatGPT能使用「自然语法」和预测不同的情境，与人类进行流利的交流或对话。&lt;/p&gt;
+&lt;p&gt;目前美国的德雷克塞尔大学生物医学工程与卫生系统学院利用ChatGPT会使用「自然语法」与人进行沟通，从人们与AI对话中测试人们是否有罹患早期阶段的痴呆症，且准确率达80%。德雷克塞尔大学表示，60%～80%的痴呆症患者拥有语言障碍症状，因此研究人员希望透过ChatGPT捕捉受试者在讲述上出现的「细微问题」，这包括在讲话时语气出现犹豫、犯语法错误或发音出现问题，以及忘记单词的意思，若出现这些问题，将会指示受试者接受全面性的检查。&lt;/p&gt;
+&lt;h3 id=&#34;局限性&#34;&gt;局限性&lt;/h3&gt;
+&lt;p&gt;《华尔街日报》专栏作家乔安娜·斯特恩（Joanna Stern）曾对ChatGPT进行了几项实验。她发现，它能够模仿人类写作习惯，写出道歉邮件、一篇论文或剧本，且文章中的主题、条理、标点符号和句子结构等，都算得上清晰分明。不过，乔安娜也提到，她利用ChatGPT帮她写工作并发给老师，而老师给的分数在B到C之间。老师则告诉乔安娜，这些文章在内容上是「干的」，「缺乏活力和声音」。也就是说，文章缺乏人类的情感且单调。&lt;/p&gt;
+&lt;p&gt;ChatGPT甚至能够依据你的需求快速回答你需要的答案，但这仅限于资料库内拥有的内容，因为ChatGPT训练时使用的资料内容仅到2021年，在未来的问题上ChatGPT是无法回答的。例如人们询问它，2022年世界杯谁夺冠时，它会告诉你「不知道，资料库有限」。&lt;/p&gt;
+&lt;p&gt;ChatGPT的奖励模型围绕人类监督而设计，可能导致过度优化，从而影响性能。例如在训练过程中，不管实际理解或事实内容如何，审核者都会偏好更长的答案。训练数据有时也存在算法偏见，比如当程序接受到首席执行官之类的模糊描述时可能会假设此人是白人男性。&lt;/p&gt;
+&lt;h2 id=&#34;人工智能&#34;&gt;人工智能&lt;/h2&gt;
+&lt;p&gt;ChatGPT主要由Opne AI开发使用GPT-3 语言生成程序（目前是正式版）训练出来的自动回答型AI，在2022年11月正式发行，机械人推出不到一个星期，全球就有超过100万人次注册使用。&lt;/p&gt;
+&lt;p&gt;此外，Dall-E 2也是Opne AI开发的，同样在2022年造成轰动。该AI能在没有艺术家、摄影师，甚至没有图片的情况下，仅依靠人们对图画的文字描述需求，在一分钟之内快速生成一张人们需要花费几小时到几天才能绘画出来的图，而创建出来的图完全是「原创」且不重复，但也引发一些伦理道德上的争议。&lt;/p&gt;
+&lt;h3 id=&#34;取代或毁灭人类&#34;&gt;取代或毁灭人类&lt;/h3&gt;
+&lt;p&gt;虽然从目前ChatGPT呈现出来的文字能力与程式编码能力，与真人实作还有一定的落差，但有些人担心，其超越人类的可能性只是时间问题。看好ChatGPT的人，认为它可以透过大量的机器学习，改善其本身的创造力，为人类的进步提供帮助，但担忧的人认为AI是一把双面刃。&lt;/p&gt;
+&lt;p&gt;有人认为「人们觉得AI可以为他们节省很多时间，人们会对其产生强烈依赖感，让人变得不喜欢动脑思考。这会无形中取代人类的文化和价值观念，最终控制人的思想和判断能力。」&lt;/p&gt;
+&lt;p&gt;去年12月4日，马斯克在推特上表示，「ChatGPT好得吓人，而我们离危险且强大的AI不远了。」Open AI的行政总裁山姆奥特曼（Sam Altman）则回应，「我同意该AI在意义上接近危险，且强大的AI可能会带来巨大的网络安全风险。未来我们实现真正的通用AI时，就必须认真对待这项风险。」&lt;/p&gt;
+&lt;p&gt;专家们的担忧并非杞人忧天。因为AI能透过超高速的学习能力，让其性能成爆炸式的增长，这可能会让AI超出人类的控制范围，开始可能是取代部份人类工作，最终可能毁灭人类。&lt;/p&gt;
+&lt;p&gt;一名外国盲点工程师扎克·德纳姆（Zac Denham）去年12月初在自己网志上表示，他如何一步步诱导ChatGPT写下详细的「毁灭人类计划」。计划内容包括入侵各国电脑系统、破坏通讯、交通系统和掌控各种武器库等详细步骤。在他的诱导中，ChatGPT甚至能给出一串毁灭人类的高等代码和大量低等代码，尽管高等代码还不能直接使用，但理论上持续性的训练AI，就能得到一套完整的毁灭代码，并能真正的去执行。&lt;/p&gt;
+&lt;p&gt;另外，「负责任的AI技术」（Responsible AI）工程师莱克·莱莫因（Blake Lemoine）在去年6月11日向《华盛顿邮报》爆料Google开发的LaMDA机械人「具有像人一样的思维意识」，引发科技伦理上的争议。&lt;/p&gt;
+&lt;h2 id=&#34;谷歌搜索&#34;&gt;谷歌搜索&lt;/h2&gt;
+&lt;p&gt;搜索引擎作为一种 web1.0 时代的产物，在进入 web3.0 的今天，看上去似乎“传统”了一些。如今特别是年轻一代的用户，开始更多地基于兴趣去搜索，并且更加注重搜索结果的趣味性、直观、易于理解等元素。&lt;/p&gt;
+&lt;h3 id=&#34;bingchatgpt&#34;&gt;Bing+ChatGPT&lt;/h3&gt;
+&lt;p&gt;微软正计划将ChatGPT 整合进自家的搜索引擎 Bing，整合了 ChatGPT 的 Bing 将可以直接针对用户的一些搜索进行回答，而不仅仅是像现在这样展示一个整合了各种超链接的列表。如果是这样，现在大家看到的千篇一律的搜索页面，真的要发生大变革了。&lt;/p&gt;
+&lt;p&gt;从微软的角度来看将 ChatGPT 引入到 Bing 中也不是完全乐观的，因为毕竟 ChatGPT 的技术还不够成熟，OpenAl 的 CEO Sam Altman 此前也发 Twitter 表示，目前 ChatGPT 的能力还很有限，在稳定性和真实性方面也还有待提高，因此现在还不能依靠它来做任何重要的事情。&lt;/p&gt;
+&lt;h3 id=&#34;数字广告&#34;&gt;数字广告&lt;/h3&gt;
+&lt;p&gt;根据搜索引擎资讯网站 Search Engine Land 的观点，人工智能技术在搜索引擎中的应用方面，谷歌可能拥有与微软一争高下的能力，因为谷歌在人工智能技术上的储备已经非常雄厚。不过即使人工智能技术方面的积累足以帮助谷歌对抗 Bing，但是谷歌搜索面临的最大的问题可能不在技术，而是在商业化上，因为谷歌有 80% 左右的营收都来自于搜索引擎业务，然而如果在搜索引擎中引入对话式 AI，人们会直接得到一个“相对完美”答案，这样谷歌基于搜索结果推荐的广告业务逻辑就将被颠覆掉，打破自己的饭碗，尤其是金饭碗对谁来说都难以下手。&lt;/p&gt;
+&lt;h3 id=&#34;强敌tiktok&#34;&gt;强敌TikTok&lt;/h3&gt;
+&lt;p&gt;随着网络升级内容传播形式从文字到图片再到视频，硅谷的巨头们迎来强敌 TikTok。根据谷歌内部数据显示，接近 40% 的 Z 世代用户在移动端搜索时更青睐 TikTok 和 Instagram 这样的社交媒体，而不是谷歌的搜索引擎、地图这样的核心服务，TikTok 已经渐渐成为很多 Z 世代用户在搜索时的首选，挤占市场份额。&lt;/p&gt;
+&lt;p&gt;不过，从市场份额以及用户的使用习惯来看，谷歌搜索的地位还是难以撼动的，搜索引擎作为一种传统的搜索结果的方式，虽然已经有 30 年的历史，但是它简洁高效以及强大的数据库优势，让社交媒体只能成为它的一种补充，而没法真正取代它的地位。&lt;/p&gt;</description>
+        </item>
+        <item>
         <title>golang介绍</title>
         <link>https://ljp66.github.io/post/introduce-golang/</link>
         <pubDate>Mon, 30 Jan 2023 14:15:57 +0800</pubDate>
@@ -47,63 +92,6 @@
 &lt;li&gt;因为垃圾回收和自动内存分配的原因，Go语言不适合用来开发对实时性要求很高的软件。&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        </item>
-        <item>
-        <title>hexo-usage</title>
-        <link>https://ljp66.github.io/post/hexo-usage/</link>
-        <pubDate>Mon, 23 Jan 2023 10:44:30 +0800</pubDate>
-        
-        <guid>https://ljp66.github.io/post/hexo-usage/</guid>
-        <description>&lt;p&gt;Welcome to &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/troubleshooting.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a class=&#34;link&#34; href=&#34;https://github.com/hexojs/hexo/issues&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;Create a new post&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ hexo new &lt;span class=&#34;s2&#34;&gt;&amp;#34;My New Post&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;More info: &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/writing.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;Run server&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ hexo server
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;More info: &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/server.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;Generate static files&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ hexo generate
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;More info: &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/generating.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;Deploy to remote sites&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ hexo deploy
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;More info: &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Deployment&lt;/a&gt;&lt;/p&gt;</description>
         </item>
         <item>
         <title>如何判断一个人是否值得信赖</title>
@@ -350,7 +338,7 @@
         <item>
         <title>hexo-markdown</title>
         <link>https://ljp66.github.io/post/hexo-markdown/</link>
-        <pubDate>Sat, 14 Jan 2023 18:52:58 +0000</pubDate>
+        <pubDate>Sat, 14 Jan 2023 18:52:58 +0800</pubDate>
         
         <guid>https://ljp66.github.io/post/hexo-markdown/</guid>
         <description>&lt;h2 id=&#34;插入图片&#34;&gt;插入图片&lt;/h2&gt;
@@ -409,6 +397,63 @@
 &lt;p&gt;$$
 c = \pm\sqrt{a^2 + b^2}
 $$&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>hexo-usage</title>
+        <link>https://ljp66.github.io/post/hexo-usage/</link>
+        <pubDate>Fri, 13 Jan 2023 10:44:30 +0800</pubDate>
+        
+        <guid>https://ljp66.github.io/post/hexo-usage/</guid>
+        <description>&lt;p&gt;Welcome to &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/troubleshooting.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a class=&#34;link&#34; href=&#34;https://github.com/hexojs/hexo/issues&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;quick-start&#34;&gt;Quick Start&lt;/h2&gt;
+&lt;h3 id=&#34;create-a-new-post&#34;&gt;Create a new post&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ hexo new &lt;span class=&#34;s2&#34;&gt;&amp;#34;My New Post&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;More info: &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/writing.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;run-server&#34;&gt;Run server&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ hexo server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;More info: &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/server.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;generate-static-files&#34;&gt;Generate static files&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ hexo generate
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;More info: &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/generating.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;Deploy to remote sites&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ hexo deploy
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;More info: &lt;a class=&#34;link&#34; href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Deployment&lt;/a&gt;&lt;/p&gt;</description>
         </item>
         
     </channel>
